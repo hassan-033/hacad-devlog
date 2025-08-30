@@ -35,10 +35,10 @@ Key steps included:
 ## 📊 Visualizations
 
 **Mean House Price by State**  
-![Mean House Price by State](figures/mean_house_price_by_state.png)
+![Mean House Price by State](figures/output_16_0.png)
 
 **Price vs. Area**  
-![Price vs Area](figures/price_vs_area.png)
+![Price vs Area](figures/output_19_0.png)
 
 ---
 
